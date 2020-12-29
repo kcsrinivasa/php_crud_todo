@@ -3,8 +3,8 @@
 //Mysql connection configuration
 $serverName = 'localhost';
 $userName = 'root';
-$password = 'bylyngolsp';
-$databaseName = 'test';
+$password = 'Password';
+$databaseName = 'Database Name';
 
 $conn = mysqli_connect($serverName,$userName,$password,$databaseName);
 
